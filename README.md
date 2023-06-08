@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @manivenkatesan
+- 👋 Hi, I’m @manivenkatesan, MD-PhD currently in London
 - 👀 I’m interested in medicine and cancer research
-- 🌱 I’m currently learning new ways to analyse omics data
 - 💞️ I’m looking to collaborate on senescence, ageing and drug tolerant persister cells 
 - 📫 How to reach me: m.venkatesan@nki.nl, www.manivenkatesan.com
 
